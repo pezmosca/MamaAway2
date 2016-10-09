@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MamaAway</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Personal</string>
+
+    <string name="home_list">Home list</string>
+    <string name="home_tasks">Home tasks</string>
+    <string name="home_events">Home events</string>
+    <string name="home_alert">Naughty night ;)</string>
+    <string name="personal_list">Personal list</string>
+    <string name="tutorials">Tutorials</string>
+
+</resources>
